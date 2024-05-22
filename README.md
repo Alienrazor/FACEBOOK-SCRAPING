@@ -36,8 +36,6 @@ python RANDOM.py
 <img src='https://raw.githubusercontent.com/Alienrazor/SS/main/IMG_20240522_133941.JPG'/>
   
   
-  <" style="height:600px;width:300px;" >
-
 
 
 <p align="center">
