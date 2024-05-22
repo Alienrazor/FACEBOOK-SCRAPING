@@ -22,4 +22,4 @@ cd FACEBOOK-SCRAPING
 
 ls
 
-python2 RANDOM.py
+python RANDOM.py
